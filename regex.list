@@ -16,4 +16,5 @@
 ^traff(ic)?[-.]
 ^(.+\.)?amp\.cloudflare\.com$
 ^(.+\.)?cdn\.ampproject\.org$
+(.*)\.g00\.(.*)
 ^(.+\.)??(facebook|.*fb.+)\.(com|net)$
